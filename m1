@@ -1,0 +1,8 @@
+hi guys, How the coaching is going on.......!
+The Dependable Packages ::
+	yum install -y openssl-devel
+	yum install -y curl-devel
+	yum install -y expat-devel
+Installation process types ::
+	1)yum install -y git
+	2)wget urlname(1. Rpm file, 2. Tar Ball)
