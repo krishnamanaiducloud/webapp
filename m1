@@ -1,0 +1,9 @@
+1. rpm -ivh (git.rpm) rpm file
+	Just Installing rpm file and use it....
+2. UnTar the Tar Ball
+	(i) goto the git file , cd gitfile
+	(ii) make prefix=/u01 all 
+	(iii) make prefix=/u01 install
+	
+
+
